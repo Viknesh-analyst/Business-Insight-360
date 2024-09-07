@@ -1,5 +1,5 @@
 # Business-Insight-360 For AtliQ Hardware's
-AtliQ Hardware, a rapidly growing company, is leveraging Power BI for data analytics to gain deeper insights and make informed, data-driven decisions. This project focuses on providing comprehensive insights into various domains such as finance, sales, marketing, and supply chain, helping the company optimize performance and identify key growth opportunities.
+AtliQ Hardware, a rapidly growing company in the electronics market with global expansion, manufactures computer hardware and other accessories. The company faced significant challenges when expanding into Latin America due to its reliance on intuition and incomplete data. Previously dependent on Excel for analysis, AtliQ found it increasingly inadequate as it scaled. To address these issues and enhance decision-making, this project aims to provide comprehensive insights across finance, sales, marketing, and supply chain domains, helping AtliQ optimize performance and identify key growth opportunities through data-driven decisions.
 
 Live Dashboard: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYjY4Njk4MDMtMDcwNS00ZTAyLWIxOTMtNGM4N2JiMzI2ODg3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
@@ -50,9 +50,6 @@ Retailer Channel and PCs Division are top revenue contributors.
 Top 5 customers account for 38.7% of revenue, with Amazon leading at 13.6%.
 AtliQ’s market share grew to 5.9% in FY 2022.
 North America contributes 26% of revenue; South Europe’s market share increased to 6.6%.
- 
-## Company Background:
- AtliQ Hardware is the fastest-growing company in the electronics market, with global expansion. They manufacture computer hardware and other accessories. However, when they expanded their business into Latin America, they faced significant losses due to decisions based on intuition and incomplete data. Previously, AtliQ relied on Excel for analysis, but as the company grew, Excel became insufficient for their data needs. As a result, they needed a data analytics team to bring transparency to their data and help them make more accurate and informed decisions.
  
 ###### Project Outcome:
 This project seeks to define the objectives and goals of the data analytics initiative. The resulting report will facilitate data-driven decision-making and address various questions regarding the company's performance. It represents a crucial step towards both survival and success in the industry
