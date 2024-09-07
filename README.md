@@ -55,5 +55,20 @@ North America contributes 26% of revenue; South Europe’s market share increase
 This project seeks to define the objectives and goals of the data analytics initiative. The resulting report will facilitate data-driven decision-making and address various questions regarding the company's performance. It represents a crucial step towards both survival and success in the industry
 
  ######## Over-all Reports  
+ ![Home_Page](https://github.com/Viknesh-analyst/Business-Insight-360/blob/01d1492bec91df321782ece88dacce5ec7f2ec2b/Home%20Page.png)
+ 
+ ![Data_Model](https://github.com/Viknesh-analyst/Business-Insight-360/blob/01d1492bec91df321782ece88dacce5ec7f2ec2b/Data%20Model.png)
+
+ ![Financial_Report](https://github.com/Viknesh-analyst/Business-Insight-360/blob/01d1492bec91df321782ece88dacce5ec7f2ec2b/Financial%20Report.png)
+
+ ![Sales_Report]( https://github.com/Viknesh-analyst/Business-Insight-360/blob/01d1492bec91df321782ece88dacce5ec7f2ec2b/Sales%20Report.png)
+
+ ![Marketing_Report](https://github.com/Viknesh-analyst/Business-Insight-360/blob/01d1492bec91df321782ece88dacce5ec7f2ec2b/Marketing%20Report.png)
+
+![Supplychain_Report](https://github.com/Viknesh-analyst/Business-Insight-360/blob/01d1492bec91df321782ece88dacce5ec7f2ec2b/Supply%20Chain%20Report.png)
+
+![Executive_Report]( https://github.com/Viknesh-analyst/Business-Insight-360/blob/01d1492bec91df321782ece88dacce5ec7f2ec2b/Executive%20Report.png)
+
+
 
 
